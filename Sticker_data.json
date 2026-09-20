@@ -18,9 +18,7 @@
   ],
   "sticker_packs": [
     {
-      "identifier": "1",
       "name": "Lucu",
-      "publisher": "kim",
       "tray_image_file": "00.png",
       "stickers": [
         {
@@ -35,9 +33,7 @@
       ]
     },
     {
-      "identifier": "2",
       "name": "Kawai",
-      "publisher": "eiichiro Oda",
       "tray_image_file": "00.png",
       "stickers": [
         {
