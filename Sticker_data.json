@@ -19,31 +19,31 @@
   "sticker_packs": [
     {
       "name": "Lucu",
-      "tray_image_file": "00.png",
+      "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
-          "image_file": "01.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
         },
         {
-          "image_file": "02.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
         },
         {
-          "image_file": "03.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
         }
       ]
     },
     {
       "name": "Kawai",
-      "tray_image_file": "00.png",
+      "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
-          "image_file": "01.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
         },
         {
-          "image_file": "02.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
         },
         {
-          "image_file": "03.webp"
+          "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
         }
       ]
     }
