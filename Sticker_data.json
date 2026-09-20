@@ -3,26 +3,19 @@
     {
       "pengaturan_iklan": "1",
       "interval_intertitial": 1,
-
       "intertitial_admob": "ca-app-pub-3940256099942544/1033173712",
       "native_admob": "ca-app-pub-3940256099942544/2247696110",
-
       "status": "0",
       "link_redirect": "",
-
       "deskripsi_update": "",
       "version_json": 1,
-
       "startappid": "123456789",
-
       "fan_inter": "981545408591412_999151030164183",
       "fan_banner_native": "981545408591412_2709037092508893",
-
       "more_app": "https://play.google.com/store/apps/developer?id=AlienDroid",
       "hpk": ""
     }
   ],
-
   "sticker_packs": [
     {
       "identifier": "1",
