@@ -144,6 +144,64 @@
     },
 
     {
+          "id": "Cute Couple_A2",
+          "name": "Cute Couple",
+          "total_sticker": 50,
+          "download": "65k",
+
+          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.png",
+
+          "preview_images": [
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/17.webp"
+          ],
+
+          "stickers": [
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/26.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/27.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/28.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/29.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/30.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/31.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/32.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/33.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/34.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/35.png"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/36.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
       "id": "Family",
       "name": "Family Stickers",
       "total_sticker": 150,
