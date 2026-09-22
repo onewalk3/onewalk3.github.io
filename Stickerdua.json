@@ -86,19 +86,20 @@
         }
       ]
     },
-        
- {
-    "id": "Cute Couple",
-    "name": "Cute Couple Stickers",
-    "total_sticker": 150,
 
-    "preview_images": [
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16.webp"
-    ],
+    {
+      "id": "Cute Couple",
+      "name": "Cute Couple Stickers",
+      "total_sticker": 150,
 
+      "preview_images": [
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16.webp"
+      ],
+
+      "sticker_packs": [
         {
           "id": "Cute Couple_02",
           "name": "Cute Couple Stickers",
@@ -150,25 +151,26 @@
             },
             {
               "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/24.webp"
-           }
-         ]
-       }
-     
-   },
-    
-  {
-    "id": "Cute Romantic",
-    "name": "Cute Romantic Stickers",
-    "total_sticker": 120,
+            }
+          ]
+        }
+      ]
+    },
 
-    "preview_images": [
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/26.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/27.webp",
-      "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/28.webp"
-    ],
+    {
+      "id": "Cute Romantic",
+      "name": "Cute Romantic Stickers",
+      "total_sticker": 120,
+
+      "preview_images": [
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/26.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/27.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/28.webp"
+      ],
+
       "sticker_packs": [
-       {
+        {
           "id": "Cute Romantic_03",
           "name": "Cute Romantic Stickers",
           "total_sticker": 60,
