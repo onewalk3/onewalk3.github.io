@@ -1,0 +1,139 @@
+{
+  "Iklan": [
+    {
+      "pengaturan_iklan": "1",
+      "interval_intertitial": 1,
+      "intertitial_admob": "ca-app-pub-3940256099942544/1033173712",
+      "native_admob": "ca-app-pub-3940256099942544/2247696110",
+      "status": "0",
+      "link_redirect": "",
+      "startappid": "123456789",
+      "fan_inter": "981545408591412_999151030164183",
+      "fan_banner_native": "981545408591412_2709037092508893",
+      "more_app": "",
+      "hpk": ""
+    }
+  ],
+
+  "menu": [
+    {
+      "id": "family",
+      "name": "Family Sticker",
+      "total_sticker": 900,
+
+      "preview_images": [
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+      ],
+
+      "sticker_packs": [
+        {
+          "id": "family_01",
+          "name": "Family Sticker Forever",
+          "total_sticker": 30,
+          "download": "80k",
+
+          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
+
+          "preview_images": [
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+          ],
+
+          "stickers": [
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+            }
+          ]
+        },
+
+        {
+          "id": "family_02",
+          "name": "Family Sticker Weekend",
+          "total_sticker": 30,
+          "download": "80k",
+
+          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
+
+          "preview_images": [
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+          ],
+
+          "stickers": [
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+            }
+          ]
+        },
+
+        {
+          "id": "family_03",
+          "name": "Family Sticker Memories",
+          "total_sticker": 30,
+          "download": "80k",
+
+          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
+
+          "preview_images": [
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+          ],
+
+          "stickers": [
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
