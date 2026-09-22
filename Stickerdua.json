@@ -139,11 +139,9 @@
               "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/24.webp"
             }
           ]
-        }
-      ]
-    },
+        },
 
-    {
+        {
           "id": "Romantic Moments_A2",
           "name": "Romantic Moments Stickers",
           "total_sticker": 50,
@@ -152,11 +150,11 @@
           "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.png",
 
           "preview_images": [
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/17.webp"
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25.png",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/26.png",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/27.png",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/28.png",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/29.png"
           ],
 
           "stickers": [
