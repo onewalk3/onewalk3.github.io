@@ -18,49 +18,69 @@
 
   "menu": [
     {
-      "id": "family",
-      "name": "Family Sticker",
-      "total_sticker": 900,
+      "id": "Romantic Couple",
+      "name": "Romantic Couple Sticker",
+      "total_sticker": 600,
 
       "preview_images": [
-        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
-        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
-        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
-        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3.webp",
+        "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4.webp"
       ],
 
       "sticker_packs": [
         {
-          "id": "family_01",
-          "name": "Family Sticker Forever",
+          "id": "Romantic Couple_01",
+          "name": "Romantic Couple Sticker",
           "total_sticker": 30,
           "download": "80k",
 
-          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
+          "Link_tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1.png",
 
           "preview_images": [
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp",
-            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3.webp",
+            "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4.webp"
           ],
 
           "stickers": [
             {
-              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1.webp"
             },
             {
-              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2.webp"
             },
             {
-              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3.webp"
             },
             {
-              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/04.webp"
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4.webp"
             },
             {
-              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/05.webp"
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/5.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/6.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/7.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/8.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/9.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/10.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/11.webp"
+            },
+            {
+              "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/12.webp"
             }
           ]
         },
