@@ -31,7 +31,7 @@
 
       "sticker_packs": [
         {
-          "id": "Romantic Couple_01",
+          "id": "Romantic Couple_A",
           "name": "Romantic Couple Sticker",
           "total_sticker": 30,
           "download": "80k",
@@ -83,12 +83,10 @@
               "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/12.webp"
             }
           ]
-        }
-      ]
-    },
+        },
 
-       {
-          "id": "Cute Couple_02",
+        {
+          "id": "Cute Couple_A1",
           "name": "Cute Couple",
           "total_sticker": 30,
           "download": "75k",
@@ -141,8 +139,10 @@
               "Link_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/24.webp"
             }
           ]
-        },
-    
+        }
+      ]
+    },
+
     {
       "id": "Family",
       "name": "Family Stickers",
@@ -157,7 +157,7 @@
 
       "sticker_packs": [
         {
-          "id": "Family_05",
+          "id": "Family_B",
           "name": "Family Stickers",
           "total_sticker": 50,
           "download": "70k",
@@ -193,8 +193,8 @@
     },
 
     {
-      "id": "Cristmas",
-      "name": "Cristmas Stickers",
+      "id": "Christmas",
+      "name": "Christmas Stickers",
       "total_sticker": 120,
 
       "preview_images": [
@@ -206,8 +206,8 @@
 
       "sticker_packs": [
         {
-          "id": "Cristmas_06",
-          "name": "Cristmas Stickers",
+          "id": "Christmas_C",
+          "name": "Christmas Stickers",
           "total_sticker": 60,
           "download": "60k",
 
