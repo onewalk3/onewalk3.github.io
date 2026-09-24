@@ -22,7 +22,7 @@
 
   "sticker_packs": [
     {
-      "identifier": "romantic_couple",
+      "identifier": "A",
       "name": "Romantic Sticker",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "identifier": "Romantic Love_A4",
+      "identifier": "B",
       "name": "Family Sticker",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "identifier": "Animation_Love",
+      "identifier": "C",
       "name": "Animation Love",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "identifier": "Weding_Cake",
+      "identifier": "D",
       "name": "Weding Cake",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
