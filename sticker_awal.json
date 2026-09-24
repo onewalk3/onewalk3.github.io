@@ -24,6 +24,8 @@
     {
       "identifier": "A",
       "name": "Romantic Couple",
+      "total_sticker": 3,
+      "download": "70k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
@@ -40,6 +42,8 @@
     {
       "identifier": "B",
       "name": "Family Sticker",
+      "total_sticker": 3,
+      "download": "60k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
@@ -56,6 +60,8 @@
     {
       "identifier": "C",
       "name": "Animation Love",
+      "total_sticker": 3,
+      "download": "40k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
@@ -72,6 +78,8 @@
     {
       "identifier": "D",
       "name": "Weding Cake",
+      "total_sticker": 3,
+      "download": "30k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
         {
