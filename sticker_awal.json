@@ -22,7 +22,7 @@
 
   "sticker_packs": [
     {
-      "identifier": "1",
+      "identifier": "romantic_couple",
       "name": "Romantic Sticker",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "identifier": "2",
+      "identifier": "Romantic_Love",
       "name": "Family Sticker",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
       "stickers": [
