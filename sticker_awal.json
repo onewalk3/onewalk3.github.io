@@ -66,6 +66,22 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
+          }
+      ]
+    },
+    {
+      "identifier": "Weding Cake",
+      "name": "Weding Cake",
+      "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/00.png",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/01.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/02.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/03.webp"
         }
       ]
     }
