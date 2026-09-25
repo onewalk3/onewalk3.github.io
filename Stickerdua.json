@@ -16,7 +16,7 @@
   ],
   "menu": [
     {
-      "id": "Romantic Couple",
+      "identifier": "A",
       "name": "Romantic Couple Sticker",
       "total_sticker": 96,
       "preview_images": [
@@ -27,7 +27,7 @@
       ],
       "sticker_packs": [
         {
-          "id": "Romantic Couple_A",
+          "identifier": "A1",
           "name": "Romantic Couple Sticker",
           "total_sticker": 12,
           "download": "80k",
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "id": "Cute Couple_A1",
+          "identifier": "A2",
           "name": "Cute Couple Stickers",
           "total_sticker": 12,
           "download": "75k",
@@ -130,7 +130,7 @@
           ]
         },
         {
-          "id": "Romantic Moments_A2",
+          "identifier": "A3",
           "name": "Romantic Moments Stickers",
           "total_sticker": 12,
           "download": "65k",
@@ -182,7 +182,7 @@
           ]
         },
         {
-          "id": "Sweet Couple_A3",
+          "identifier": "A4",
           "name": "Sweet Couple Stickers",
           "total_sticker": 12,
           "download": "70k",
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "id": "Romantic Love_A4",
+          "identifier": "A5",
           "name": "Romantic Love Stickers",
           "total_sticker": 12,
           "download": "89k",
@@ -286,7 +286,7 @@
           ]
         },
         {
-          "id": "Cat Love_A5",
+          "identifier": "A6",
           "name": "Cat Love Stickers",
           "total_sticker": 12,
           "download": "65k",
@@ -338,7 +338,7 @@
           ]
         },
         {
-          "id": "Sweet Love Moments_A6",
+          "identifier": "A7",
           "name": "Sweet Love Moments",
           "total_sticker": 12,
           "download": "60k",
@@ -390,7 +390,7 @@
           ]
         },
         {
-          "id": "Dino Love_A7",
+          "identifier": "A8",
           "name": "Dino Love Stickers",
           "total_sticker": 12,
           "download": "59k",
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "id": "Love Animation",
+      "identifier": "B",
       "name": "Love Animation",
       "total_sticker": 100,
       "preview_images": [
@@ -454,7 +454,7 @@
       ],
       "sticker_packs": [
         {
-          "id": "Love Animation_B",
+          "identifier": "B1",
           "name": "Love Animation Stickers",
           "total_sticker": 6,
           "download": "70k",
@@ -487,7 +487,7 @@
           ]
         },
         {
-          "id": "Cute Smiling Girl_B1",
+          "identifier": "B2",
           "name": "Cute Smiling Girl Stickers",
           "total_sticker": 5,
           "download": "70k",
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "id": "Wedding",
+      "identifier": "C",
       "name": "Wedding Stickers",
       "total_sticker": 150,
       "preview_images": [
@@ -530,7 +530,7 @@
       ],
       "sticker_packs": [
         {
-          "id": "Wedding_C",
+          "identifier": "C1",
           "name": "Wedding Stickers",
           "total_sticker": 5,
           "download": "60k",
