@@ -27,6 +27,7 @@
       ],
       "sticker_packs": [
         {
+          "id": "Romantic_A",
           "identifier": "A1",
           "name": "Romantic Couple Sticker",
           "total_sticker": 12,
@@ -78,6 +79,7 @@
           ]
         },
         {
+          "id": "Couple_A1",
           "identifier": "A2",
           "name": "Cute Couple Stickers",
           "total_sticker": 12,
