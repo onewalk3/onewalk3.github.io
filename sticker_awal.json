@@ -24,7 +24,7 @@
     {
       "identifier": "A",
       "name": "Romantic Couple",
-      "total_sticker": 3,
+      "total_sticker": 30,
       "download": "70k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/Traya0.png",
       "stickers": [
@@ -123,7 +123,7 @@
     {
       "identifier": "B",
       "name": "Cute Couple Stickers",
-      "total_sticker": 3,
+      "total_sticker": 30,
       "download": "60k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya1.png",
       "stickers": [
@@ -222,7 +222,7 @@
     {
       "identifier": "C",
       "name": "Romantic Moments Stickers",
-      "total_sticker": 3,
+      "total_sticker": 30,
       "download": "40k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya2.png",
       "stickers": [
@@ -321,8 +321,8 @@
     {
       "identifier": "D",
       "name": "Sweet Couple Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "55k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya3.png",
       "stickers": [
         {
@@ -423,8 +423,8 @@
     {
       "identifier": "E",
       "name": "Romantic Love Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "650k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya4.png",
       "stickers": [
         {
@@ -519,8 +519,8 @@
     {
       "identifier": "F",
       "name": "Cat Love Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "80k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya5.png",
       "stickers": [
         {
@@ -618,8 +618,8 @@
     {
       "identifier": "G",
       "name": "Sweet Love Moments",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "65k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya6.png",
       "stickers": [
         {
@@ -717,8 +717,8 @@
     {
       "identifier": "H",
       "name": "Dino Love Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "70k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/traya7.png",
       "stickers": [
         {
@@ -816,8 +816,8 @@
     {
       "identifier": "I",
       "name": "Love Animation",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "65k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayB.png",
       "stickers": [
         {
@@ -915,8 +915,8 @@
     {
       "identifier": "J",
       "name": "Cute Smiling Girl Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "600k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayB1.png",
       "stickers": [
         {
@@ -1014,8 +1014,8 @@
     {
       "identifier": "K",
       "name": "Wedding Stickers",
-      "total_sticker": 3,
-      "download": "30k",
+      "total_sticker": 30,
+      "download": "40k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayC.png",
       "stickers": [
         {
@@ -1107,6 +1107,48 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/136K.png"
+        }
+      ]
+    },
+    {
+      "identifier": "L",
+      "name": "Baby Animation",
+      "total_sticker": 30,
+      "download": "50k",
+      "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayL.png",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/5L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/6L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/7L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/8L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/9L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/10L.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/11L.webp"
         }
       ]
     },
