@@ -1540,6 +1540,24 @@
       ]
     },
     {
+      "identifier": "P",
+      "name": "Weding Cake",
+      "total_sticker": 30,
+      "download": "30k",
+      "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayP.png",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3P.webp"
+        }
+      ]
+    },
+    {
       "identifier": "L",
       "name": "Weding Cake",
       "total_sticker": 30,
