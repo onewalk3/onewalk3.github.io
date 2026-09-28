@@ -1541,9 +1541,9 @@
     },
     {
       "identifier": "P",
-      "name": "Weding Cake",
+      "name": "Animated Animal Stickers",
       "total_sticker": 30,
-      "download": "30k",
+      "download": "55k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/trayP.png",
       "stickers": [
         {
@@ -1554,6 +1554,87 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/5P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/6P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/7P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/8P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/9P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/10P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/11P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/12P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/17P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/18P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/19P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/20P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/21P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/22P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/23P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/24P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/25P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/26P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/27P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/28P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/29P.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/30P.webp"
         }
       ]
     },
