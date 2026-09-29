@@ -1837,6 +1837,63 @@
       ]
     },
     {
+      "identifier": "S",
+      "name": "Funny Animated Stickers",
+      "total_sticker": 30,
+      "download": "70k",
+      "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/TrayS.png",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/1S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/2S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/3S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/5S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/6S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/7S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/8S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/9S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/10S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/11S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/12S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/13S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15S.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16S.webp"
+        }
+      ]
+    },
+    {
       "identifier": "L",
       "name": "Weding Cake",
       "total_sticker": 30,
@@ -1856,3 +1913,4 @@
     }
   ]
 }
+
