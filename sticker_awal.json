@@ -4,9 +4,9 @@
       "pengaturan_iklan": "1",
       "interval_intertitial": 1,
 
-      "intertitial_admob": "ca-app-pub-3940256099942544/1033173712",
-      "native_admob": "ca-app-pub-3940256099942544/2247696110",
-      "Open_admob": "ca-app-pub-3940256099942544/9257395921",
+      "intertitial_admob": "ca-app-pub-3940256099942544/1033173712x",
+      "native_admob": "ca-app-pub-3940256099942544/2247696110x",
+      "Open_admob": "ca-app-pub-3940256099942544/9257395921x",
 
       "status": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
