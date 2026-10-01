@@ -1011,7 +1011,7 @@
     {
       "identifier": "K",
       "name": "Wedding Stickers",
-      "total_sticker": 30,
+      "total_sticker": 25,
       "download": "65k",
       "tray_image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/TrayK.png",
       "stickers": [
@@ -1026,30 +1026,6 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/4K.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/6K.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/7K.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/9K.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/14.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/15.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/16new.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/17new.webp"
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/18new.webp"
         },
         {
           "image_file": "https://raw.githubusercontent.com/onewalk3/onewalk3.github.io/refs/heads/main/10K.webp"
